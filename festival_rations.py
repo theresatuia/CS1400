@@ -1,4 +1,3 @@
-#The capital of Norway is Oslo.
 colonists_num =int(input('Enter the number of colonists: '))
 food_num = int(input('Enter the total food units available: '))
 total_rations = colonists_num * 3
